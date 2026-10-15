@@ -265,6 +265,7 @@
               hydra-tests
               hydra-manual
               hydra-linters
+              hydra-cargo-deps
               hydra-queue-runner
               hydra-builder
               ;
